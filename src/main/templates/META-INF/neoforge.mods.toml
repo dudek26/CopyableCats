@@ -49,5 +49,12 @@ config="${mod_id}.mixins.json"
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.${mod_id}]]
+    modId="copycats"
+    type="required"
+    versionRange="[${copycats_version},)"
+    ordering="NONE"
+    side="BOTH"
+
 #[features.${mod_id}]
 #openGLVersion="[3.2,)"

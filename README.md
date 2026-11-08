@@ -1,5 +1,8 @@
-# Create: WhatT
+# Create: Copyable Cats
 
-###### What Train? What's (with) those Trains?
+###### Copycats+ v3.0.11 has patched the crash, so this mod is now redundant.
 
-A simple Create addon for displaying train owner name on map, even if they're offline.
+Simple patch to prevent copycat-related rendering crashes (Copycats+ v3.0.8-3.0.9)
+
+Glitched copycat blocks will show Repeating Command Blocks as a fallback material instead of completely crashing the
+client. 
